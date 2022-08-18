@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Version="1.0.2.10" xmlns="http://www.ni.com/SourceModel.xsd">
+  <Namespace Name="Project">
+    <GuidedHelp xmlns="http://www.ni.com/GuidedHelp.xsd">
+      <Slides>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="kZB1jenB0isKJwMmzM+bZ22Vjh+C6BkYjUUbeK0BseKypr3+RmyZryqVJlb4rzVhJFCwGHee7oXz3Fl4PCBbeQ==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>Let&amp;#39;s Prepare!</b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p></p><p /><p>We will now guide you through some steps to prepare your EV3 core set for your first activity.</p><p /><p>If you are starting with a brand new set, these steps can take up to <b>45 minutes.</b>&amp;nbsp;</p><p /><p /><p> </p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Image" Version="0" ImageFileName="01_UnboxSet1.png" UserEditable="False" CreatedByMediaControl="False" WideControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="JoSLXG7LatdnVFfYqIT83VJAM9g5wL7PyiIEI8WbsfA4T0U14kdbvZxDrnNomqRDFsn1tOHClytzmb1RAQF6UA==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>Apply the Stickers</b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p>Apply the stickers to the side of each sorting tray container to make sorting easier later on .</p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Image" Version="0" ImageFileName="02_TrayStickers.png" UserEditable="False" CreatedByMediaControl="False" WideControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="F85F4Xl9aVikLKTcg7A7UXtJLTD7snPyXfbElca08Gpxg6ZbaJ/J6O/3tgYgCkvIe2/WGnmJmPEZmEcTdOzI/A==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>Sort the Set</b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p></p><p /><p>Use the top card to guide you through sorting the smaller parts into the sorting tray.</p><p /><p>Use the bottom card to guide you through arranging the larger parts, such as cables, motors, sensors, and charger in the bottom of the box.</p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Image" Version="0" ImageFileName="03_SortBox2.png" UserEditable="False" CreatedByMediaControl="False" WideControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="ImvGlzLnW1q6TzjJ120nwGyVPp3FLwdu6vm4sSyX/KqK1sV18kM9FoEcrCJI/T6kx9vcy6y7xc7FuiwHVjsH+A==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>Insert the Battery</b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p>Find the EV3 Brick and the EV3 Rechargeable Battery. </p><p></p><p>Remove the back cover of the EV3 Brick. Save the cover, you will need it if you ever want to use AA batteries. </p><p></p><p>Insert the Rechargeable Battery into the EV3 Brick.</p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Video" Version="0" ImageOverlayFileName="04_Insert Battery1.png" VideoFileName="04-INSERT BATTERY_Small.mp4" UserEditable="False" CreatedByMediaControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="bA2dXbYT3dPuCZAT+HBrTX73Fd0LR4qaCmgae6Z7KzZmBMWIMUTBvnDM2sBw1vmu4Kg7YWf34jWTTm7zJQVXpw==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>Power On Your EV3 Brick</b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p>Make sure your EV3 Brick is working. </p><p></p><p>Power it on by pressing the Center Button.</p><p></p><p>Make sure the battery is fully charged before using your EV3 Brick. Use the charger cable to charge it.</p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Image" Version="0" ImageFileName="05_PowerOn1.png" UserEditable="False" CreatedByMediaControl="False" WideControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="W8cvHv/ROZYZdtq1Did53YdgUs+tQZZSe5CuHHLx0tJSR1FYznTem266dBJza1Rc9JAngYhZ0j45tFa73ven8A==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>Label Your Box and Its Parts</b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p>Label each box with numbers or name. </p><p></p><p>Use the stickers provided to label all of your set's electronic parts in the same way that you labeled your box.</p><p></p><p>This will help you to keep track of your set.</p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Image" Version="0" ImageFileName="06_LabelSet.png" UserEditable="False" CreatedByMediaControl="False" WideControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="KO4CuPdfRGEBWG/IkazUTCXXcD+Rmg6tsxSyHwGIS5pjsPDjMMc57CIewEXYj2+osBsmo/2VmVFT16DUpYZzXw==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>Rename Your EV3 Brick </b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p>&amp;quot;EV3&amp;quot; is the default name for all EV3 Bricks. Before starting a lesson, you should change the name of your EV3 Brick to something unique (e.g., EV3-1). Giving each EV3 Brick a unique name simplifies the connection process when many EV3 Bricks are being used in the same room.</p><p /><p>Watch the video to see how to rename your EV3 Brick.</p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Video" Version="0" ImageOverlayFileName="07_Rename_Brick1.jpg" VideoFileName="07_Rename_Brick1.mp4" UserEditable="False" CreatedByMediaControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="L6N8D9Ae9ymC3Y0vJZcw6J64RoA6ju1tjP02e+SXN4x1nRW4b+agMUouibrxG043u/TXqSU1/EY6QP8YcKKSoQ==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>Need help?</b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p>If you need help while working with EV3, you can access online help anytime through the main menu in the software: <b>Help &amp;gt; Show EV3 Help. </b></p><p /><p>Take a moment to browse.</p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Image" Version="0" ImageFileName="8_Help.png" UserEditable="False" CreatedByMediaControl="False" WideControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+        <Slide GuidedHelpSize="Large" SlideName="" NextButtonEnabled="True" OnSlideChanged="" Signature="ZTNlZ6daT1hiV/vpoXdAyFLCkQiAK8cmzEHoubrSs3fkffbtR1ah918f+eV0EIpSlwsbOruapBgBoevivbLGrg==" TemplateID="OneThirdTwoThirdColumns">
+          <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="16" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p><b>That&amp;#39;s It!</b></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="RichText" Version="0" UserEditable="False" WideControl="False">
+            <Text><RichTextDocument fontsize="12" fontfamily="Verdana" xmlns="http://www.ni.com/ActivityRichTextDocument.xsd"><p>Your EV3 Core Set and EV3 Brick should be ready to go!</p><p /><p><font color="#337CBB"><u><a action="OpenProjectTemplate:ev3Lobby\://LEGO/StartHere/projects/02.ev3">Let’s Try It!</a></u></font></p></RichTextDocument></Text>
+          </SimpleData>
+          <SimpleData UniqueID="Image" Version="0" ImageFileName="09_WorkingLargeMotor.png" UserEditable="False" CreatedByMediaControl="False" WideControl="False" />
+          <Children>
+            <Slide GuidedHelpSize="Large" SlideName="" OnSlideChanged="" TemplateID="Full">
+              <SimpleData UniqueID="RichTextTitle" Version="0" UserEditable="False" WideControl="False">
+                <Text />
+              </SimpleData>
+              <SimpleData UniqueID="Empty" Version="0" />
+              <Children />
+            </Slide>
+          </Children>
+        </Slide>
+      </Slides>
+      <MediaDictionary>
+        <Media Key="01_UnboxSet1.png" Value="01_UnboxSet.png" />
+        <Media Key="02_TrayStickers.png" Value="02_TrayStickers.png" />
+        <Media Key="03_SortBox2.png" Value="03_SortBox2.png" />
+        <Media Key="04-INSERT BATTERY_Small.mp4" Value="04-INSERT BATTERY_Small.mp4" />
+        <Media Key="04_Insert Battery1.png" Value="04_Insert Battery.png" />
+        <Media Key="05_PowerOn1.png" Value="05_PowerOn.png" />
+        <Media Key="06_LabelSet.png" Value="06_LabelSet.png" />
+        <Media Key="07_Rename_Brick1.mp4" Value="07_Rename_Brick.mp4" />
+        <Media Key="07_Rename_Brick1.jpg" Value="07_Rename_Brick.jpg" />
+        <Media Key="8_Help.png" Value="8_Help.png" />
+        <Media Key="09_WorkingLargeMotor.png" Value="09_WorkingLargeMotor.png" />
+      </MediaDictionary>
+    </GuidedHelp>
+  </Namespace>
+</SourceFile>

@@ -1,0 +1,35 @@
+p1 = new jsts.geom.Coordinate(100,200)
+p2 = new jsts.geom.Coordinate(300,200)
+p3 = new jsts.geom.Coordinate(400,200)
+p4 = new jsts.geom.Coordinate(500,600)
+var ls = new jsts.geom.LineSegment(p1,p2)
+var ls2 = new jsts.geom.LineSegment(p3,p4)
+var a1 = ls.angle()
+var a2 = ls2.angle()
+var d1 = toDegrees(a1);
+var d2 = toDegrees(a2);
+
+
+
+var c = pData.data[0].facets[0].connectors[0].pts;
+var pts = new Array();
+for(var i=0;i<c.length;i++){
+    var pid = c[i];
+    var pt = getPoint(pid);
+    if(pt!=null){
+    pts.push(pt);
+    }
+}
+
+function getPoint(id){
+    var c = pData.data[0].pts;
+    for(var i=0;i<c.length;i++){
+        if(c[i].id==id){
+        return c[i];
+        }
+    }
+    return null;
+}
+----------------------------------------------------------------
+
+

@@ -1,0 +1,18 @@
+<div id="cont_{id}">
+<div id="{id}">
+<table>
+<tr>
+<td>
+<input class="portable" grpid="{id}" id="{id}filename" index="0" name="filename" onchange="var tn =dojo.byId('{id}filename'); findNodeById('{id}').data['filename']= tn.value; dojo.attr(tn,'pval', tn.value);tn.setAttribute('value',tn.value);syncModuleCode(tn.getAttribute('grpid'));" ptype="input" dataType="string" pval="0" type="text" value="0" /></td>
+</tr>
+
+</table>
+</div>
+
+</div>
+<script>
+console.log("comp inside clicked :"+"{id}");
+var props = ["filename"];
+var id = "{id}";
+syncCompConfig(id,props)
+</script>
